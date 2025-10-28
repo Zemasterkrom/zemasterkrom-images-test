@@ -4,7 +4,7 @@
   <defs>
     <!-- tile size in user pixels (change 200 -> your filler tile width in px) -->
     <pattern id="tileFiller" patternUnits="userSpaceOnUse" width="200" height="36">
-      <image href="filler.svg" x="0" y="0" width="200" height="36" preserveAspectRatio="xMidYMid meet"/>
+      <image href="https://raw.githubusercontent.com/Zemasterkrom/zemasterkrom-images-test/main/filler.svg" x="0" y="0" width="200" height="36" preserveAspectRatio="xMidYMid meet"/>
     </pattern>
   </defs>
 
@@ -13,8 +13,8 @@
   <rect x="153" y="0" width="100%" height="36" fill="url(#tileFiller)" />
 
   <!-- left icon: fixed pixel box at x=0 -->
-  <image href="tab.svg" x="0" y="0" width="153" height="36" preserveAspectRatio="xMinYMid meet" />
+  <image href="https://raw.githubusercontent.com/Zemasterkrom/zemasterkrom-images-test/main/tab.svg" x="0" y="0" width="153" height="36" preserveAspectRatio="xMinYMid meet" />
 
   <!-- right icon: anchored to the right edge using x="100%" and translated left by icon width -->
-  <image href="close.svg" x="153" y="0" width="28" height="36" preserveAspectRatio="xMaxYMid meet" />
+  <image href="https://raw.githubusercontent.com/Zemasterkrom/zemasterkrom-images-test/main/close.svg" x="153" y="0" width="28" height="36" preserveAspectRatio="xMaxYMid meet" />
 </svg>
